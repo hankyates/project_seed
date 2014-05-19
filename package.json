@@ -1,0 +1,30 @@
+{
+  "name": "soccer_colors",
+  "version": "0.0.0",
+  "description": "soccer_colors =============",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hankyates/soccer_colors.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hankyates/soccer_colors/issues"
+  },
+  "homepage": "https://github.com/hankyates/soccer_colors",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "browserify": "~4.1.5",
+    "grunt-browserify": "~2.1.0",
+    "grunt-traceur": "~0.1.1",
+    "grunt-react": "~0.8.2"
+  },
+  "dependencies": {
+    "envify": "~1.2.1",
+    "react": "~0.10.0"
+  }
+}
